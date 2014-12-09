@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Octopress | 张斌斌的博客]]></title>
-  <link href="http://zhangbinbin.github.io/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://zhangbinbin.github.io/"/>
-  <updated>2014-12-10T01:08:07+08:00</updated>
-  <id>http://zhangbinbin.github.io/</id>
+  <link href="http://www.zhangbinbin.tk/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://www.zhangbinbin.tk/"/>
+  <updated>2014-12-10T01:12:30+08:00</updated>
+  <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress博客搭建]]></title>
-    <link href="http://zhangbinbin.github.io/blog/2014/12/09/octopressbo-ke-da-jian/"/>
+    <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian/"/>
     <updated>2014-12-09T23:08:29+08:00</updated>
-    <id>http://zhangbinbin.github.io/blog/2014/12/09/octopressbo-ke-da-jian</id>
+    <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://zhangbinbin.github.io/sitemap.xml 
+Sitemap: http://www.zhangbinbin.tk/sitemap.xml 
