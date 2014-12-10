@@ -8,7 +8,7 @@ tags: [Jekyll]
 
 #### 修复Github邮件错误提示Page build failure
 具体的症状就是:本地运行**jekyll serve -w**没有什么异常,但是当执行完push后,Github就会发来一封邮件,告知你**Page build failure**.
-
+<!--more-->
 邮件内容如下:
 
 > The page build failed with the following error:
