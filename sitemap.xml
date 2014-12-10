@@ -32,31 +32,36 @@
   </url>
   <url>
     <loc>http://www.zhangbinbin.tk/404.html</loc>
-    <lastmod>2014-12-11T00:59:09+08:00</lastmod>
+    <lastmod>2014-12-11T01:16:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.zhangbinbin.tk/blog/archives/</loc>
-    <lastmod>2014-12-11T00:59:09+08:00</lastmod>
+    <lastmod>2014-12-11T01:16:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.zhangbinbin.tk/</loc>
-    <lastmod>2014-12-11T00:59:09+08:00</lastmod>
+    <lastmod>2014-12-11T01:16:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.zhangbinbin.tk/about/</loc>
-    <lastmod>2014-12-11T00:59:09+08:00</lastmod>
+    <lastmod>2014-12-11T01:16:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.zhangbinbin.tk/googleecaa710efe19eb03.html</loc>
     <lastmod>2014-12-11T00:42:12+08:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://www.zhangbinbin.tk/sogousiteverification.txt.html</loc>
+    <lastmod>2014-12-11T01:16:12+08:00</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
