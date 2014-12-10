@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web | 张斌斌的博客]]></title>
+  <link href="http://www.zhangbinbin.tk/blog/categories/web/atom.xml" rel="self"/>
+  <link href="http://www.zhangbinbin.tk/"/>
+  <updated>2014-12-10T16:16:34+08:00</updated>
+  <id>http://www.zhangbinbin.tk/</id>
+  <author>
+    <name><![CDATA[张斌斌]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Github Pages Build Failure]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/11/18/github-pages-build-failure/"/>
+    <updated>2014-11-18T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/11/18/github-pages-build-failure</id>
+    <content type="html"><![CDATA[<h4>修复Github邮件错误提示Page build failure</h4>
+
+<p>具体的症状就是:本地运行<strong>jekyll serve -w</strong>没有什么异常,但是当执行完push后,Github就会发来一封邮件,告知你<strong>Page build failure</strong>.</p>
+
+<p>邮件内容如下:</p>
+
+<blockquote><p>The page build failed with the following error:
+The submodule <code>_theme_packages/twitter</code> was not properly initialized with a <code>.gitmodules</code> file. For more information, see <a href="https://help.github.com/articles/page-build-failed-missing-submodule">https://help.github.com/articles/page-build-failed-missing-submodule
+</a>.</p></blockquote>
+
+<p>有热心网友已经贴出了相关详细解决方案.</p>
+
+<p><strong>请参考这篇文章</strong><a href="http://theloverz.me/note/2013/12/06/fix-failure-on-github-pages-and-jekyll/" title="写的很详细哦">Fix failure on Github Pages and Jekyll</a></p>
+
+<p>我这里就不再赘述了.</p>
+]]></content>
+  </entry>
+  
+</feed>

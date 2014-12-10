@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | 张斌斌的博客]]></title>
+  <link href="http://www.zhangbinbin.tk/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://www.zhangbinbin.tk/"/>
+  <updated>2014-12-10T16:16:34+08:00</updated>
+  <id>http://www.zhangbinbin.tk/</id>
+  <author>
+    <name><![CDATA[张斌斌]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/12/10/new-post/"/>
+    <updated>2014-12-10T01:07:57+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/12/10/new-post</id>
+    <content type="html"><![CDATA[<h2>octopress归来</h2>
+
+<p>折腾无止境</p>
+
+<p>生活如此多焦.</p>
+
+<p>comming soon&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>

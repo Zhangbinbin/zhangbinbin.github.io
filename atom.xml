@@ -4,7 +4,7 @@
   <title><![CDATA[张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-10T09:20:18+08:00</updated>
+  <updated>2014-12-10T16:16:34+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -18,7 +18,13 @@
     <link href="http://www.zhangbinbin.tk/blog/2014/12/10/new-post/"/>
     <updated>2014-12-10T01:07:57+08:00</updated>
     <id>http://www.zhangbinbin.tk/blog/2014/12/10/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>octopress归来</h2>
+
+<p>折腾无止境</p>
+
+<p>生活如此多焦.</p>
+
+<p>comming soon&hellip;</p>
 ]]></content>
   </entry>
   
@@ -28,6 +34,230 @@
     <updated>2014-12-09T23:08:29+08:00</updated>
     <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Github Pages Build Failure]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/11/18/github-pages-build-failure/"/>
+    <updated>2014-11-18T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/11/18/github-pages-build-failure</id>
+    <content type="html"><![CDATA[<h4>修复Github邮件错误提示Page build failure</h4>
+
+<p>具体的症状就是:本地运行<strong>jekyll serve -w</strong>没有什么异常,但是当执行完push后,Github就会发来一封邮件,告知你<strong>Page build failure</strong>.</p>
+
+<p>邮件内容如下:</p>
+
+<blockquote><p>The page build failed with the following error:
+The submodule <code>_theme_packages/twitter</code> was not properly initialized with a <code>.gitmodules</code> file. For more information, see <a href="https://help.github.com/articles/page-build-failed-missing-submodule">https://help.github.com/articles/page-build-failed-missing-submodule
+</a>.</p></blockquote>
+
+<p>有热心网友已经贴出了相关详细解决方案.</p>
+
+<p><strong>请参考这篇文章</strong><a href="http://theloverz.me/note/2013/12/06/fix-failure-on-github-pages-and-jekyll/" title="写的很详细哦">Fix failure on Github Pages and Jekyll</a></p>
+
+<p>我这里就不再赘述了.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[济源学车记]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/11/17/driving-course-learning/"/>
+    <updated>2014-11-17T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/11/17/driving-course-learning</id>
+    <content type="html"><![CDATA[<p>自从我打上海卷铺盖回来,家人老觉得我没干什么正经事儿,这不非让我去学车.我也只好从之.</p>
+
+<p>我一个朋友去年刚结婚,老婆就是在驾校认识的.我想你们应该明白我的意思.嘿嘿嘿&hellip;请恕我太俗.</p>
+
+<p>目前还在苦苦的等科目一考试通知,奶奶的,<a href="http://www.jyygjx.com" title="title">济源阳光驾校</a>已经让我等了快一个月了.学校招生人员的话千万不能全信.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[重读鲁宾逊漂流记]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/08/29/robinson-crusoe/"/>
+    <updated>2014-08-29T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/08/29/robinson-crusoe</id>
+    <content type="html"><![CDATA[<h1>读后感</h1>
+
+<h2>重读原因</h2>
+
+<p> 返乡归来,暂时没有进入学习状态,所以找了本课外读物看看,重温经典.
+这本书我在中学时就读过.但此刻我已经完全忘记了书中的内容.</p>
+
+<h2>故事情节简介</h2>
+
+<p>故事发生在16世纪初期的英国,主人公鲁宾逊原本可以安安稳稳的过一辈子,毕竟他的家境还不错,但是由于他顽固的脾气,始终抗拒来自家人和亲朋的劝说,立志到海外去创一创.于是抱着这样的想法他几经波折,背井离乡,期间遭遇劫匪,充当奴隶,后来才趁机逃到了巴西,凭借自己的聪明才智拥有了属于自己的农场,虽然一路坎坷,但故事的中局还是可以的.怎之更大的漂流还在后边,他为了做奴隶买卖生意,又一次出发,而这一次是28年的孤岛生涯.他用运用毕生所知的求生技能在这个孤岛建立了自己王国:种地,牧羊,观测天文,制作各种日常工具,试着让糟糕的的生活更好一点,当然他更想要的还是离开小岛,重新开始正常人的生活.但是这在当时是个近乎不可能的奢望.
+他也一度陷入绝望,觉得上帝抛弃了他,悔恨当初没听父母和朋友的劝阻,但是他此时并没有被现实打败而失去理智,在理性的分析了岛上的生存局势后,他发现岛上的条件并没有他想象的那样糟糕,甚至是可喜的,因为岛上的物资是那样的丰富,这让他重新看到了生存的希望,重新认识了上帝.</p>
+
+<h2>关于信仰</h2>
+
+<p>这里我想多谈一下信仰的问题.在中国,很多人都是无神论者.他们不相信基督,不相信佛祖,也不相信其他的宗教,他们只相信自己.认为没有信仰人一样能够活着.我对他们的观点一点也不感到吃惊,唯一让我感到吃惊的是,几千年来这种思想已经在中国老百姓的脑子里根深蒂固.即使在科技信息如此发达的今天,不少人即使相信算命大师也不信基督.我只是想在这里提醒一下:信仰的价值同生命的价值一样重要.</p>
+
+<p>无论如何,鲁宾逊逃出了小岛开始了新的生活.这主要归功于他的坚定不移的求生欲望与执着的信仰.可见信仰能够影响人的一生啊.</p>
+
+<h1>返乡归来问题</h1>
+
+<ul>
+<li>没有严格的时间安排</li>
+<li>如何控制疲倦</li>
+<li>如何增强自信心和消除不良心态</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何建立自信 + How to Build Self Confidence]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/08/15/build-self-confidence/"/>
+    <updated>2014-08-15T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/08/15/build-self-confidence</id>
+    <content type="html"><![CDATA[<h2>如何建立自信心</h2>
+
+<p>本文的内容参考了wikihow上<a href="http://www.wikihow.com/Build-Self-Confidence/">Build-Self-Confidence</a>一文,感谢.</p>
+
+<h2>说在前面的话</h2>
+
+<blockquote><p>自信心之于人,就好比阳光之于树木.很难想象一个干什么都缺乏自信的人,一辈子能作出什么惊天动地的大事.
+伟大的理论物理科学家爱因斯坦曾说过:</p>
+
+<blockquote><p><em>You never fail until you stop trying.不去尝试,永远都不会失败</em></p></blockquote>
+
+<p>然而,只是告诉人们自信如何如何重要,显然不是重点.重点是:<strong>如何有效的建立自信</strong>.这也是本文的重点.
+Ok,让我们出发吧!</p></blockquote>
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Intro.jpg" alt="图片0" /></p>
+
+<h2>第一步: 改变你的思维方式</h2>
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-4.jpg" alt="图片1" /></p>
+
+<ul>
+<li>评估天赋  <br />
+每个人都有自己擅长的一方面,找到自己认为有趣的事情,试着做的更好并结交相关领域的朋友</li>
+<li>肯定自我价值</li>
+<li>尽可能多的写下令你不安的事情</li>
+<li>和要好的朋友分享你的观点</li>
+<li><p>不要害怕犯错
+<img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-3.jpg" alt="图片2" /></p></li>
+<li><p>积极的思维模式</p></li>
+<li>不要拿自己和别人对比</li>
+</ul>
+
+
+<blockquote><p>如果你想建立自信心,和别人对比是没有任何意义的,这不是你的参照物,真正的参照物是以前的自己.</p>
+
+<p>人外有人,天外有天,明白这一点很重要.自己的目标和梦想才是你需要关心的重点.</p></blockquote>
+
+<h2>第二步: 行动起来</h2>
+
+<ul>
+<li><p>真心感谢别人的赞美
+<img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-7.jpg" alt="图片3" /></p></li>
+<li><p>多微笑</p></li>
+</ul>
+
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-8.jpg" alt="图片4" /></p>
+
+<blockquote><p>整天愁眉苦脸,哪还有朋友愿意和你在一起.</p></blockquote>
+
+<ul>
+<li>&ldquo;伪造&#8221;一些积极的信号</li>
+</ul>
+
+
+<blockquote><p>如何你不够强大,没关系.我们可以假装自己很强大.这是心理学的积极暗示的作用.这影响的不仅仅是自己,还有你周边的朋友们. 没有人愿意和一群整日抱怨的人在一起工作和生活.</p></blockquote>
+
+<ul>
+<li>帮助别人就是帮助自己</li>
+<li>做一个有原则的人</li>
+</ul>
+
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-10.jpg" alt="图片5" /></p>
+
+<blockquote><p>如果一个人做事没有原则,那么就会像墙头草一样,永远长不成参天大树.</p></blockquote>
+
+<ul>
+<li>尽量远离消极的人或事</li>
+<li>眼神的沟通</li>
+<li>外观依然很重要</li>
+</ul>
+
+
+<h2>最后一步: 进一步提升自信</h2>
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-22075-1.jpg" alt="图片6" /></p>
+
+<ul>
+<li>杜绝完美主义</li>
+<li>珍惜拥有的一切</li>
+</ul>
+
+
+<p><img src="http://www.zhangbinbin.tk/assets/images/670px-Build-Self-Confidence-Step-5.jpg" alt="图片7" /></p>
+
+<ul>
+<li>一口吃不出个胖子</li>
+</ul>
+
+
+<blockquote><p>懂得精进的道理,步子太大容易扯着蛋.</p></blockquote>
+
+<ul>
+<li>兴趣,还是兴趣.</li>
+<li>勇于接受新事物</li>
+<li>和志同道合的朋友在一起</li>
+<li>活在当下</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[我在前进中碰到的问题]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/08/11/next-step/"/>
+    <updated>2014-08-11T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/08/11/next-step</id>
+    <content type="html"><![CDATA[<p>问题汇总</p>
+
+<h2>1.拔苗助长</h2>
+
+<p>作为一个有至于在IT行业发挥自己光和热的年轻小伙子(我自认为自己精力还是很充沛的),我和别人有很多不同.有不同当然不是什么坏事,但是太过标新立异总会找来周边人事的不满,有时候甚至是朋友也会表达一些情绪.不少人认为我有点&#8221;固执&#8221;,真的是这样么?我认为,固执和坚持最大的区别在于:如果你成功了,你就是坚持,如果你失败了,就是固执.</p>
+
+<p>so,做点成果证明给自己和别人看,这是最好的.</p>
+
+<p>这就遇到了拔苗助长的问题.我这里所说的是忽视理论,偏重应用的问题.IT领域的理论基础至关重要,我始终相信没有这些基础,一个程序员很难走的远,很难不转行.所以,我想我没有什么理由拒绝学习CS最基础也是最核心的知识,这些都是前人智慧的结晶,我们应尽最大努力的理解他们的想法,进而超越他们.</p>
+
+<p>我是在吹牛么? 也许吧.昨天学了一句西方谚语:
+Follow your own course,and let people talk.</p>
+
+<h2>2.时间管理和任务分配</h2>
+
+<p>通过对自己最近几个月的观察,发现了一些比较严重的问题需要修正.</p>
+
+<ol>
+<li>控制贪玩的欲望.
+自己在新奇玩意上话的时间还是太多,譬如jekyll,emacs,vim的各种配置,希望以后能在这方面少花写时间,毕竟今年最大的目标还是理论研究.</li>
+<li>利用好起床后的那段时间.
+有研究表明,起床后的一段时间是很宝贵的.<a href="http://www.guokr.com/article/342808/">果壳科学人:人的记忆力在早晨最好么?</a>
+而之前的我,起床后经常被各种琐碎的知识碎片打扰,精力还是不够集中.严重的会导致一天的学习计划因此受牵连.很是苦恼.因此,利用好上一条就是关键.</li>
+</ol>
+
+
+<p>Ok,由于时间关系,先总结到这里,希望自己能够在接下来的时间里,认识到自己的不足,关键是改进,改进,再改进.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jekyll + Github Pages + 搭建博客]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2014/07/29/enjoy-myself/"/>
+    <updated>2014-07-29T00:00:00+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2014/07/29/enjoy-myself</id>
+    <content type="html"><![CDATA[<p>折腾了一天的Github pages 配置终于有眉目了,现在就来试着写一篇日志吧.看看效果如何.</p>
+
+<p>至于其他的用法,稍后一点点研究.暂且不必花太多时间在这里啦 =)</p>
 ]]></content>
   </entry>
   
