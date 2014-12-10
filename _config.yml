@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://zhangbinbin.github.io
+url: http://www.zhangbinbin.tk
 title: 张斌斌的博客
 subtitle: "愚公移山,敢为人先"
 author: 张斌斌 
-simple_search: https://www.baidu.com/search
+simple_search: https://www.baidu.com/
 description: 作为一个地道的济源人,我时刻不忘自己是愚公儿女.想用博客记录人生,专注于计算机科学,感恩于世间温暖
+keywords: 张斌斌,博客,愚公
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -41,17 +42,17 @@ rdiscount:
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
-excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "继续阅读 &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html]
+default_asides: [custom/asides/about.html,asides/recent_posts.html,asides/weibo.html,asides/blog_link.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -91,7 +92,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: binbinzhang
+disqus_short_name: zhangbinbin
 disqus_show_comment_count: true 
 
 # Google Analytics
