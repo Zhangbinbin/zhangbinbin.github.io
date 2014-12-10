@@ -4,7 +4,7 @@
   <title><![CDATA[张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-11T00:05:24+08:00</updated>
+  <updated>2014-12-11T00:42:38+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -14,11 +14,22 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Octopress博客搭建]]></title>
+    <title type="html"><![CDATA[Octopress博客终于搭建完毕]]></title>
     <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian/"/>
     <updated>2014-12-09T23:08:29+08:00</updated>
     <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>博客近几天从Jekyll转换成Octopress,现在看来效果还不错,更主要的原因后者
+折腾的门槛稍低那么一点,适合我这样的前端开发新手来把玩.</p>
+
+<p>搭建过程中,参考的文档有以下:</p>
+
+<ul>
+<li><a href="http://octopress.org/docs/deploying/github/">Octopress官网</a></li>
+<li><a href="http://justcoding.iteye.com/blog/1954645">利用Octopress搭建一个Github博客</a></li>
+<li><a href="http://812lcl.com/blog/2013/10/29/octopresstian-jia-tong-ji-yu-seo/">Octopress添加统计与SEO</a></li>
+<li><a href="http://www.udpwork.com/item/7771.html">为octopress添加分类(category)列表</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
