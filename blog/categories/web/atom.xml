@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web | 张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-10T16:44:16+08:00</updated>
+  <updated>2014-12-10T21:47:53+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<h4>修复Github邮件错误提示Page build failure</h4>
 
 <p>具体的症状就是:本地运行<strong>jekyll serve -w</strong>没有什么异常,但是当执行完push后,Github就会发来一封邮件,告知你<strong>Page build failure</strong>.</p>
+
+<!--more-->
+
 
 <p>邮件内容如下:</p>
 
