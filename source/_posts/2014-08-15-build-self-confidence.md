@@ -22,10 +22,10 @@ tags: human
 > Ok,让我们出发吧!
 
 
-![图片0]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Intro.jpg)
+![图片0](/images/670px-Build-Self-Confidence-Intro.jpg)
 
 ## 第一步: 改变你的思维方式
-![图片1]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-4.jpg)
+![图片1](/images/670px-Build-Self-Confidence-Step-4.jpg)
 
 * 评估天赋  <br />
 每个人都有自己擅长的一方面,找到自己认为有趣的事情,试着做的更好并结交相关领域的朋友
@@ -33,7 +33,7 @@ tags: human
 * 尽可能多的写下令你不安的事情
 * 和要好的朋友分享你的观点
 * 不要害怕犯错
-![图片2]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-3.jpg)
+![图片2](/images/670px-Build-Self-Confidence-Step-3.jpg)
 
 * 积极的思维模式
 * 不要拿自己和别人对比
@@ -45,11 +45,11 @@ tags: human
 ## 第二步: 行动起来
 
 * 真心感谢别人的赞美
-![图片3]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-7.jpg)
+![图片3](/images/670px-Build-Self-Confidence-Step-7.jpg)
 
 * 多微笑
 
-![图片4]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-8.jpg)
+![图片4](/images/670px-Build-Self-Confidence-Step-8.jpg)
 
 > 整天愁眉苦脸,哪还有朋友愿意和你在一起.
 
@@ -60,7 +60,7 @@ tags: human
 * 帮助别人就是帮助自己
 * 做一个有原则的人 
 
-![图片5]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-10.jpg)
+![图片5](/images/670px-Build-Self-Confidence-Step-10.jpg)
 
 > 如果一个人做事没有原则,那么就会像墙头草一样,永远长不成参天大树.
 
@@ -70,12 +70,12 @@ tags: human
 
 ## 最后一步: 进一步提升自信
 
-![图片6]({{ site.url }}/assets/images/670px-22075-1.jpg)
+![图片6](/images/670px-22075-1.jpg)
 
 * 杜绝完美主义
 * 珍惜拥有的一切
 
-![图片7]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-5.jpg)
+![图片7](/images/670px-Build-Self-Confidence-Step-5.jpg)
 
 * 一口吃不出个胖子
 
