@@ -1,0 +1,11 @@
+.go_top {
+    background: url('/images/icon.png') no-repeat scroll 9px -148px #144263;
+    bottom: 20px;
+    cursor: pointer;
+    display: none;
+    height: 50px;
+    position: fixed;
+    right: 20px;
+    width: 50px;
+    border-bottom-width: 0px;
+}

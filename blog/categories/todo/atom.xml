@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Todo | 张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/blog/categories/todo/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-11T02:02:47+08:00</updated>
+  <updated>2014-12-11T21:14:24+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress博客终于搭建完毕]]></title>
-    <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian/"/>
+    <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopress-deploy-seo/"/>
     <updated>2014-12-09T23:08:29+08:00</updated>
-    <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian</id>
+    <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopress-deploy-seo</id>
     <content type="html"><![CDATA[<p>博客近几天从Jekyll转换成Octopress,现在看来效果还不错,更主要的原因后者
 折腾的门槛稍低那么一点,适合我这样的前端开发新手来把玩.</p>
 
@@ -28,6 +28,14 @@
 <li><a href="http://justcoding.iteye.com/blog/1954645">利用Octopress搭建一个Github博客</a></li>
 <li><a href="http://812lcl.com/blog/2013/10/29/octopresstian-jia-tong-ji-yu-seo/">Octopress添加统计与SEO</a></li>
 <li><a href="http://www.udpwork.com/item/7771.html">为octopress添加分类(category)列表</a></li>
+<li><a href="http://812lcl.com/blog/2013/10/26/octopressce-bian-lan-ji-ping-lun-xi-tong-ding-zhi/">侧边栏及评论系统定制</a></li>
+</ul>
+
+
+<p>最后,需要提醒墙内的朋友,和谐使用Google公共库&amp;字体库的调用方法</p>
+
+<ul>
+<li><a href="http://libs.useso.com/">360网站卫士常用前端公共库CDN服务</a></li>
 </ul>
 
 ]]></content>

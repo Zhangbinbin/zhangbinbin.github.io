@@ -4,7 +4,7 @@
   <title><![CDATA[张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-11T02:02:47+08:00</updated>
+  <updated>2014-12-11T21:14:24+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress博客终于搭建完毕]]></title>
-    <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian/"/>
+    <link href="http://www.zhangbinbin.tk/blog/2014/12/09/octopress-deploy-seo/"/>
     <updated>2014-12-09T23:08:29+08:00</updated>
-    <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopressbo-ke-da-jian</id>
+    <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopress-deploy-seo</id>
     <content type="html"><![CDATA[<p>博客近几天从Jekyll转换成Octopress,现在看来效果还不错,更主要的原因后者
 折腾的门槛稍低那么一点,适合我这样的前端开发新手来把玩.</p>
 
@@ -28,6 +28,14 @@
 <li><a href="http://justcoding.iteye.com/blog/1954645">利用Octopress搭建一个Github博客</a></li>
 <li><a href="http://812lcl.com/blog/2013/10/29/octopresstian-jia-tong-ji-yu-seo/">Octopress添加统计与SEO</a></li>
 <li><a href="http://www.udpwork.com/item/7771.html">为octopress添加分类(category)列表</a></li>
+<li><a href="http://812lcl.com/blog/2013/10/26/octopressce-bian-lan-ji-ping-lun-xi-tong-ding-zhi/">侧边栏及评论系统定制</a></li>
+</ul>
+
+
+<p>最后,需要提醒墙内的朋友,和谐使用Google公共库&amp;字体库的调用方法</p>
+
+<ul>
+<li><a href="http://libs.useso.com/">360网站卫士常用前端公共库CDN服务</a></li>
 </ul>
 
 ]]></content>
@@ -127,37 +135,20 @@ The submodule <code>_theme_packages/twitter</code> was not properly initialized 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[我在前进中碰到的问题]]></title>
+    <title type="html"><![CDATA[需要证明自己]]></title>
     <link href="http://www.zhangbinbin.tk/blog/2014/08/11/next-step/"/>
     <updated>2014-08-11T00:00:00+08:00</updated>
     <id>http://www.zhangbinbin.tk/blog/2014/08/11/next-step</id>
-    <content type="html"><![CDATA[<h1>问题汇总</h1>
+    <content type="html"><![CDATA[<p>球场上奋力奔跑的球员,如果证明不了自己的价值,那么迟早要坐冷板凳.</p>
 
-<h2>1.拔苗助长</h2>
+<p>现实生活中的我们同样需要证明自己.</p>
 
-<p>作为一个有至于在IT行业发挥自己光和热的年轻小伙子(我自认为自己精力还是很充沛的),我和别人有很多不同.有不同当然不是什么坏事,但是太过标新立异总会找来周边人事的不满,有时候甚至是朋友也会表达一些情绪.不少人认为我有点&#8221;固执&#8221;,真的是这样么?我认为,固执和坚持最大的区别在于:如果你成功了,你就是坚持,如果你失败了,就是固执.</p>
-
-<p>so,做点成果证明给自己和别人看,这是最好的.</p>
-
-<p>这就遇到了拔苗助长的问题.我这里所说的是忽视理论,偏重应用的问题.IT领域的理论基础至关重要,我始终相信没有这些基础,一个程序员很难走的远,很难不转行.所以,我想我没有什么理由拒绝学习CS最基础也是最核心的知识,这些都是前人智慧的结晶,我们应尽最大努力的理解他们的想法,进而超越他们.</p>
-
-<p>我是在吹牛么? 也许吧.昨天学了一句西方谚语:
-Follow your own course,and let people talk.</p>
-
-<h2>2.时间管理和任务分配</h2>
-
-<p>通过对自己最近几个月的观察,发现了一些比较严重的问题需要修正.</p>
-
-<ol>
-<li>控制贪玩的欲望.
-自己在新奇玩意上话的时间还是太多,譬如jekyll,emacs,vim的各种配置,希望以后能在这方面少花写时间,毕竟今年最大的目标还是理论研究.</li>
-<li>利用好起床后的那段时间.
-有研究表明,起床后的一段时间是很宝贵的.<a href="http://www.guokr.com/article/342808/">果壳科学人:人的记忆力在早晨最好么?</a>
-而之前的我,起床后经常被各种琐碎的知识碎片打扰,精力还是不够集中.严重的会导致一天的学习计划因此受牵连.很是苦恼.因此,利用好上一条就是关键.</li>
-</ol>
+<!--more-->
 
 
-<p>Ok,由于时间关系,先总结到这里,希望自己能够在接下来的时间里,认识到自己的不足,关键是改进,改进,再改进.</p>
+<p>既然知道路怎么走,就应该坚定不移的走下去.这不正是我济源<strong>愚公移山</strong>的城市精神么.</p>
+
+<p>写在这里的话愿与君共勉.</p>
 ]]></content>
   </entry>
   
