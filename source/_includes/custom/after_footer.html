@@ -1,3 +1,31 @@
 {% comment %}
   Add content to be output at the bottom of each page. (You might use this for analytics scripts, for example)
 {% endcomment %}
+   <script type="text/javascript" src="http://tajs.qq.com/stats?sId=39327203" charset="UTF-8"></script> 
+   <script src="http://s11.cnzz.com/z_stat.php?id=1253561777&web_id=1253561777" language="JavaScript"></script>
+    <script type="text/javascript">
+        $(function(){
+            //回到顶部
+            $(window).scroll(function(){  
+                    var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
+                    if( scrollt >200 ){  //判断滚动后高度超过200px,就显示  
+                        $("#goTop").fadeIn(400); //淡出     
+                    }else{      
+                        $("#goTop").stop().fadeOut(400); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动   
+                    }
+            });
+
+            $("#goTop").click(function(){ 
+                    $("html,body").animate({scrollTop:"0px"},500);
+            });
+            //滚到评论
+            var hash = window.location.hash;
+            if(hash&&$(hash).length==1){
+                $('html,body').animate({
+                        scrollTop: $(hash).offset().top
+                        },1000);
+            }
+
+        });
+    </script>
+

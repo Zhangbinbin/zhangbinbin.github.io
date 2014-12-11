@@ -4,6 +4,7 @@ title: 重读鲁宾逊漂流记
 category: person
 tags: [读书]
 keywords: 鲁宾逊漂流记读后感
+comments: true
 
 ---
 
