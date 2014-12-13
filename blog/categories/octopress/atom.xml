@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 张斌斌的博客]]></title>
   <link href="http://www.zhangbinbin.tk/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2014-12-11T21:14:24+08:00</updated>
+  <updated>2014-12-13T10:14:29+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -20,6 +20,9 @@
     <id>http://www.zhangbinbin.tk/blog/2014/12/09/octopress-deploy-seo</id>
     <content type="html"><![CDATA[<p>博客近几天从Jekyll转换成Octopress,现在看来效果还不错,更主要的原因后者
 折腾的门槛稍低那么一点,适合我这样的前端开发新手来把玩.</p>
+
+<!--more-->
+
 
 <p>搭建过程中,参考的文档有以下:</p>
 
