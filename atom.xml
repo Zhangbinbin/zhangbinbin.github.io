@@ -4,7 +4,7 @@
   <title><![CDATA[Barloc's Blog]]></title>
   <link href="http://www.zhangbinbin.tk/atom.xml" rel="self"/>
   <link href="http://www.zhangbinbin.tk/"/>
-  <updated>2015-04-19T16:50:25+08:00</updated>
+  <updated>2015-09-09T01:08:41+08:00</updated>
   <id>http://www.zhangbinbin.tk/</id>
   <author>
     <name><![CDATA[张斌斌]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I'm Alive]]></title>
+    <link href="http://www.zhangbinbin.tk/blog/2015/09/09/im-alive/"/>
+    <updated>2015-09-09T01:02:05+08:00</updated>
+    <id>http://www.zhangbinbin.tk/blog/2015/09/09/im-alive</id>
+    <content type="html"><![CDATA[<h6>我还活着</h6>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress博客终于搭建完毕]]></title>
